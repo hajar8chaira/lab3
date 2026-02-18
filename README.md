@@ -9,6 +9,7 @@
 # L'interface de screen 2 : activity_scr2.xml
 
 <p align="center"> <img src="images/a3.png" width="600"> </p>
+<p align="center"> <img src="images/a11.png" width="600"> </p>
 
 # Formulaire — MainActivity.java:
 <p align="center"> <img src="images/b1.png" width="600"> </p>
