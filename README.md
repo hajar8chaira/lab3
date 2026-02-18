@@ -11,34 +11,27 @@
 <p align="center"> <img src="images/a3.png" width="800"> </p>
 
 # Formulaire — MainActivity.java:
-<p align="center"> <img src="images/a4.png" width="800"> </p>
-<p align="center"> <img src="images/a5.png" width="700"> </p>
+<p align="center"> <img src="images/b1.png" width="800"> </p>
+<p align="center"> <img src="images/b2.png" width="700"> </p>
 
 # Formulaire - Scr2Activity.java
+<p align="center"> <img src="images/a10.png" width="700"> </p>
 <p align="center"> <img src="images/a6.png" width="700"> </p>
 
+# Configuration des activités — AndroidManifest.xml:
+<p align="center"> <img src="images/a7.png" width="700"> </p>
 
-2. Les routes par défaut avec ´ip route ´:
-![ Screen11](images/img12.png)
+# Vérification et exécution de l’application :
+<p align="center"> <img src="images/c4.png" width="300"> </p> 
+<p align="center"> <img src="images/c3.png" width="400"> </p> 
 
-3. Tester l'Internet:
-![ Screen12](images/img13.png)
+# Bonus :
+<p align="center"> <img src="images/c1.png" width="700"> </p>
+<p align="center"> <img src="images/c2.png" width="700"> </p>
 
-![ Screen13](images/img14.png)
+## Avant verification d' Email:
+<p align="center"> <img src="images/a8.png" width="300"> </p> 
+<p align="center"> <img src="images/a9.png" width="300"> </p> 
 
-
-## Step 5 : Création d’un point de restauration(snapshot) :
-<p align="center"> <img src="images/img15.png" width="700"> </p> 
-<p align="center"> <img src="images/img16.png" width="800"> </p> 
-
-
-## Step 6 : Mise en place de l’environnement Android pour les tests :
-1. Activation de mode developpeur sur mon telephone dans Parametres en appuiant 7 fois sur Build number 
-<p align="center"> <img src="images/mobile2.jpeg" width="350"> </p>
-2. Dans Options pour developpeurs , on active USB DEBUGGING :
-<p align="center"> <img src="images/mobile1.jpeg" width="350"> </p>
-3. Dans VirtualBox, sur la machine click droit et on choisit Parametres puis USB , ensuite on clique sur +ajouter et on selectionne le telephone dans la liste :
-<p align="center"> <img src="images/img19.png" > </p>
-4. Verifier ladb dans Mobexler:
-<p align="center"> <img src="images/img18.png"> </p> <p align="center"> <img src="images/img17.png"> </p>
-
+## Apres Verification :- Email Invalid
+ <p align="center"> <img src="images/q1.png" width="300"> </p> 
