@@ -37,6 +37,4 @@
 ## Apres Verification :- Email Invalid
  <p align="center"> <img src="images/q1.png" width="300"> </p> 
  
- # Demo video :
-<video src="video/vid.mp4" controls width="600"></video>
 
